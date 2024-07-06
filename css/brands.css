@@ -1069,6 +1069,83 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* lemon8 */
+.button.button-lemon8 {
+  color: #000000;
+  background-color: #f4ea2a;
+  border: 1px solid #f4ea2a;
+}
+.button.button-lemon8:hover,
+.button.button-lemon8:focus {
+  filter: brightness(90%);
+}
+
+/* bilibili */
+.button.button-bilibili {
+  color: #000000;
+  background-color: #ffc9e4;
+  border: 1px solid #ffc9e4;
+}
+.button.button-bilibili:hover,
+.button.button-bilibili:focus {
+  filter: brightness(90%);
+}
+
+/* zhihu */
+.button.button-zhihu {
+  color: #000000;
+  background-color: #ddf2ff;
+  border: 1px solid #ddf2ff;
+}
+.button.button-zhihu:hover,
+.button.button-zhihu:focus {
+  filter: brightness(90%);
+}
+
+/* weibo */
+.button.button-weibo {
+  color: #000000;
+  background-color: #fffac9;
+  border: 1px solid #fffac9;
+}
+.button.button-weibo:hover,
+.button.button-weibo:focus {
+  filter: brightness(90%);
+}
+
+/* xiaohongshu */
+.button.button-xiaohongshu {
+  color: #000000;
+  background-color: #ffc9c9;
+  border: 1px solid #ffc9c9;
+}
+.button.button-xiaohongshu:hover,
+.button.button-xiaohongshu:focus {
+  filter: brightness(90%);
+}
+
+/* douban */
+.button.button-douban {
+  color: #000000;
+  background-color: #c9ffd2;
+  border: 1px solid #c9ffd2;
+}
+.button.button-douban:hover,
+.button.button-douban:focus {
+  filter: brightness(90%);
+}
+
+/* yemacs */
+.button.button-yemacs {
+  color: #000000;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+}
+.button.button-yemacs:hover,
+.button.button-yemacs:focus {
+  filter: brightness(90%);
+}
+
 /* Zoom */
 .button.button-zoom {
   color: #ffffff;
